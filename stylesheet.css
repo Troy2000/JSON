@@ -1,0 +1,19 @@
+body
+{
+	background-image: url(http://cdn.wallpapersafari.com/96/71/LOgpSy.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-color: purple;
+}
+
+#container{
+  margin: auto;
+  text-align: center;
+}
+
+#canvas{
+  display: block;
+  margin: 100px auto;
+  background-color: aliceblue;
+  border: 2px solid black;
+}
